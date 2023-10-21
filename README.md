@@ -10,11 +10,11 @@ This guide aims to collect and combine all backwards knowledge to give new playe
 
 Basic Mechanics
 ---
-- [Reverse Gear](/bFtS0964Qu65uLN7-6oVEw)
-- [Air Control](/cTB_5vK5RPG1xVqD7CzjZg)
-- [Surfaces](/fYfib5toTq2rqptYELdz5Q)
+- [Reverse Gear](/Basic%20mechanics/reverse_gear.md)
+- [Air Control](/Basic%20mechanics/air_control.md)
+- [Surfaces](/Basic%20mechanics/surfaces.md)
 
 Tricks
 ---
-- [Speeddrift (SD)](/tvjt8MMWT12RHeBUwEQxsg)
-- [Noslide SD](/zqH_Fe_QQ32jdWk5Ovjz7g)
+- [Speeddrift (SD)](/Tricks/speeddrift.md)
+- [Noslide SD](/Tricks/noslide.md)
